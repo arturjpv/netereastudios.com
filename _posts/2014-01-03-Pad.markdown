@@ -1,0 +1,31 @@
+---
+layout: post
+title: PAD
+image: Pad.png
+about: "<b>Neterea Studios</b> is now a PAD member. A new organization of independent videogames professionals."
+tag: news
+---
+<p>
+The same day of the presentation, Neterea Studios, became a member of PAD (Professional Associated Developers).
+</p>
+
+<p>
+As you can read on the <a href="http://www.padweb.org" target="_blank">official website</a>: PAD is a non lucrative, open, active, inclusive,
+horizontal and transparent organization with the goal of fulfilling the real needs of the independent (indie) video game developer.
+</p>
+
+<p>
+These are great news for independent game developers in Spain. With 40 companies already in, we hope this means a stronger industry with more and better games.
+</p>
+
+<p>
+
+</p>
+
+<p>
+
+</p>
+
+<p>
+
+</p>

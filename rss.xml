@@ -1,0 +1,28 @@
+---
+layout: nil
+---
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/">
+	<channel>
+		<title>Neterea Studios</title>
+		<link>http://www.netereastudios.com</link>
+		<language>en</language>
+		<webMaster>arturo.perez@netereastudios.com</webMaster>
+		<pubDate>{{ site.time | date_to_xmlschema }}</pubDate>
+		<copyright>Copyright 2013-2014 Neterea Studios</copyright>
+		<ttl>60</ttl>
+		<description>netereastudios.com</description>
+		{% for post in site.posts limit:10 %}
+		<item>
+			<title>{{ post.title }}</title>
+			<link>http://www.netereastudios.com{{ post.url }}</link>
+			<pubDate>{{ post.date }}</pubDate>
+			<guid>http://www.netereastudios.com{{ post.id }}.html</guid>
+			<description>{{ post.content | xml_escape }}</description>
+			{% for topic in post.topics %}
+			<category domain="http://www.netereastudios.com/{{ topic }}.html">{{ topic }}</category>
+			{% endfor %}
+		</item>
+		{% endfor %}
+	</channel>
+</rss>

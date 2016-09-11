@@ -1,0 +1,31 @@
+---
+layout: post
+title: Gamelab 2013
+image: Gamelab.png
+about: "<b>Neterea Studios</b> is attending Gamelab 2013. If you are going to be there look for us."
+tag: news
+---
+<p>
+If you are going to be in Gamelab 2013 we want to hear from you. We want to meet you!
+Even if you don't need our services, we want to share experiencies of this business.
+</p>
+
+<p>
+Our first Gamelab was in 2011, still not as a company, but the energy that we found there
+was inspiring. We want to live that moment again.
+</p>
+
+<p>
+
+</p>
+<p>
+
+</p>
+
+<p>
+
+</p>
+
+<p>
+
+</p>

@@ -1,0 +1,27 @@
+---
+layout: post
+title: Up and running
+image: Neterea.png
+about: "The team is assembled, <b>Neterea Studios</b> is finally up and running."
+tag: news
+---
+<p>
+When starting a project, or a company, timing is as important as the people involved.
+Sometimes you know the right people but they have their own jobs. Eventually, when they are
+ready to jump in, you are the one with professional commitments.
+</p>
+
+<p>
+Neterea Studios started a long time ago, just as a mere vision. And therefore, the core team
+members still had a long path to walk before they could join again and start thinking of
+Neterea Studios as a real project.
+</p>
+
+<p>
+Finally we have the opportunity to work in this business as a company and create the videogames
+we always wanted.
+</p>
+
+<p>
+Hard work is all that lies ahead.
+</p>

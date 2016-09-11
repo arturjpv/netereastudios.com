@@ -1,0 +1,14 @@
+---
+layout: default
+title: "Stories"
+---
+{% for post in site.tags.news %}
+	{% cycle 'add row': '<div class="row-fluid">', nil, nil, nil %}
+	<div class="span3">
+		<a href="{{ post.url }}"><img class="imgBox" src="postImages/{{ post.image }}"/></a>
+		<a href="{{ post.url }}"><h2>{{ post.title }}</h2></a>
+		<p>{{ post.about }} <a href="{{ post.url }}"> <i class="icon-plus-sign"></i></a></p>
+	</div>
+	{% cycle 'close row': nil, nil, nil, '</div>' %}
+{% endfor %}
+{% cycle 'close row': nil, '</div>', '</div>', '</div>' %}

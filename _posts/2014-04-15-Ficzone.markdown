@@ -1,0 +1,31 @@
+---
+layout: post
+title: Ficzone 14
+image: Ficzone.png
+about: "Neterea Studios will attend Ficzone 14. Do you want to play a demo of our working title? Look for our stand!"
+tag: news
+---
+<p>
+<a href="http://www.ficzone.com" target="_blank">Ficzone 14</a> will take place in Granada (Spain) the 26 and 27 of april.
+</p>
+
+<p>
+Thanks to <a href="http://www.zehngames.com">ZehnGames</a>, we will be joining the Developers Zone.
+An open space where development studios will be showing their titles to the public.
+</p>
+
+<p>
+So if you are around and want to playtest our next game, feel free to take a seat and start playing.
+</p>
+
+<p>
+
+</p>
+
+<p>
+
+</p>
+
+<p>
+
+</p>
